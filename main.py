@@ -1,3 +1,4 @@
+# Import necessary libraries
 from tenserflow.keras.models import load_model
 from take_photo import capture_photo
 from crop import crop_and_save_images

@@ -1,3 +1,4 @@
+# Import necessary libraries
 import cv2
 import os
 
