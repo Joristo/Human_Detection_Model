@@ -1,3 +1,4 @@
+# Import necessary libraries
 import cv2
 import os
 
@@ -33,4 +34,4 @@ def capture_photo(output_folder):
     cv2.destroyAllWindows()
 
 # Example usage:
-capture_photo("capture")#output_folder
+#capture_photo("capture")#output_folder
